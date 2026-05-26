@@ -42,4 +42,4 @@ The design is validated using a self-checking testbench that:
 - Concurrent error detection techniques in pipelined architectures
 
 ## Author
-[Your Name]
+Prottay Mazumder
