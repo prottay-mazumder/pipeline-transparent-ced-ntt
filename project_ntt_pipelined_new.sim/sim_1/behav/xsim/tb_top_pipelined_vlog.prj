@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef" \
+"../../../../project_ntt_pipelined_new.srcs/sources_1/new/butterfly_unit.v" \
+"../../../../project_ntt_pipelined_new.srcs/sources_1/new/multiplier_unit.v" \
+"../../../../project_ntt_pipelined_new.srcs/sources_1/new/ntt_pipelined.v" \
+"../../../../project_ntt_pipelined_new.srcs/sources_1/new/top_pipelined.v" \
+"../../../../project_ntt_pipelined_new.srcs/sources_1/new/tb_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

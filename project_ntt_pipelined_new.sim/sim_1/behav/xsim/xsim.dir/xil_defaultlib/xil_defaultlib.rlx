@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/butterfly_unit.v,1777990990,verilog,,C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/multiplier_unit.v,,butterfly_unit,,,../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/multiplier_unit.v,1776851847,verilog,,C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/ntt_pipelined.v,,multiplier_unit,,,../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/ntt_pipelined.v,1777990990,verilog,,C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/top_pipelined.v,,ntt_pipelined,,,../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/tb_test.v,1777992654,verilog,,,,tb_top_pipelined,,,../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/top_pipelined.v,1776844188,verilog,,C:/Users/KIIT/project_ntt_pipelined_new/project_ntt_pipelined_new.srcs/sources_1/new/tb_test.v,,top_pipelined,,,../../../../../../../XboxGames/2025.1/Vivado/data/rsb/busdef,,,,,
